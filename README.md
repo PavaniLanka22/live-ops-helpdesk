@@ -123,5 +123,5 @@ Visual Studio Code, Git, GitHub, Postman, Browser DevTools
      └─────────────────┘                 └─────────────────┘
 
 
-     <img width="1906" height="914" alt="image" src="https://github.com/user-attachments/assets/f4efc72f-1889-4adc-b893-6fab76dd85fe" />
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/9d755209-de90-44f2-b738-dfce13390f77" />
 
