@@ -53,5 +53,6 @@ If an agent disconnects unexpectedly, the server identifies locks associated wit
 GET /api/tickets
 
 
-<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/9d755209-de90-44f2-b738-dfce13390f77" />
+<img width="1917" height="967" alt="Screenshot 2026-09-15 132901" src="https://github.com/user-attachments/assets/9d618715-7c24-4428-9c82-52f5ecdf44c9" />
+
 
